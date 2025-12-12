@@ -12,9 +12,13 @@ hf_oauth_scopes:
 - inference-api
 ---
 
-# 🦜 Research Parrot
+# Research Parrot
 
 An AI-powered research paper assistant for security researchers. Ask questions about security research papers and get in-depth technical analysis.
+
+![alt text](image.png)
+
+🔗 **Live Demo:** [Research Parrot](https://huggingface.co/spaces/Prachir-AI/researchparrot)
 
 ## Features
 
