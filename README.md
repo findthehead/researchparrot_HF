@@ -1,17 +1,3 @@
----
-title: Research Parrot
-emoji: 🦜
-colorFrom: yellow
-colorTo: purple
-sdk: gradio
-sdk_version: 5.42.0
-app_file: app.py
-pinned: false
-hf_oauth: true
-hf_oauth_scopes:
-- inference-api
----
-
 # Research Parrot
 
 An AI-powered research paper assistant for security researchers. Ask questions about security research papers and get in-depth technical analysis.
